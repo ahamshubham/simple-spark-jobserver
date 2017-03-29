@@ -1,0 +1,15 @@
+logs/
+results/
+target/
+jobs/target/
+jobs/project/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws

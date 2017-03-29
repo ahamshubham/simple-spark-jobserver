@@ -5,7 +5,7 @@
 2) activator should be installed    
 
 **Run simple-spark-jobserver:**    
-In order to start the simple-spark-jobserver, clone the repository and run the following commands:    
+In order to start the simple-spark-jobserver, clone the repository and run the following commands within the simple-spark-jobserver folder:    
 ```
   cd jobs
   sbt package

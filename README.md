@@ -1,10 +1,10 @@
 # simple-spark-jobserver    
 
-**Pre-requisites before running simple-spark-jobserver**    
+**Pre-requisites before running simple-spark-jobserver:**    
 1) spark should be installed on the system and spark-submit command should be working on the shell    
 2) activator should be installed    
 
-**Run simple-spark-jobserver**    
+**Run simple-spark-jobserver:**    
 In order to start the simple-spark-jobserver, clone the repository and run the following commands-    
 ```
   cd jobs
